@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="360" viewBox="0 0 520 360" fill="none">
+  <rect width="520" height="360" rx="16" fill="#E8F0EC"/>
+  <rect x="280" y="48" width="200" height="264" rx="12" fill="#F8FAFC" stroke="#CBD5E1"/>
+  <rect x="296" y="72" width="168" height="216" rx="4" fill="#FFFFFF"/>
+  <rect x="312" y="96" width="120" height="8" rx="4" fill="#1F4D3A"/>
+  <rect x="312" y="116" width="136" height="4" rx="2" fill="#94A3B8"/>
+  <rect x="312" y="128" width="128" height="4" rx="2" fill="#94A3B8"/>
+  <rect x="312" y="140" width="132" height="4" rx="2" fill="#94A3B8"/>
+  <path d="M120 280 C120 180 180 120 240 120 C300 120 360 180 360 280" stroke="#BF0000" stroke-width="3" fill="none"/>
+  <rect x="88" y="200" width="140" height="100" rx="8" fill="#BF0000" opacity="0.12"/>
+  <text x="40" y="48" fill="#1F4D3A" font-family="Georgia, serif" font-size="22">Your next chapter</text>
+</svg>
